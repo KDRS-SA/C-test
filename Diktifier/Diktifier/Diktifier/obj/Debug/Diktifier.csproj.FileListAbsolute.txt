@@ -4,3 +4,9 @@ D:\code\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.exe
 D:\code\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.pdb
 D:\code\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.exe
 D:\code\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.pdb
+C:\data\git\git.kdrs\C-test\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.exe.config
+C:\data\git\git.kdrs\C-test\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.exe
+C:\data\git\git.kdrs\C-test\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.pdb
+C:\data\git\git.kdrs\C-test\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.exe
+C:\data\git\git.kdrs\C-test\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.pdb
+C:\data\git\git.kdrs\C-test\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.csprojResolveAssemblyReference.cache
