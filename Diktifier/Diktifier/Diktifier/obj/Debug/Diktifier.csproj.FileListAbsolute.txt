@@ -1,0 +1,6 @@
+D:\code\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.csprojResolveAssemblyReference.cache
+D:\code\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.exe.config
+D:\code\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.exe
+D:\code\Diktifier\Diktifier\Diktifier\bin\Debug\Diktifier.pdb
+D:\code\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.exe
+D:\code\Diktifier\Diktifier\Diktifier\obj\Debug\Diktifier.pdb
